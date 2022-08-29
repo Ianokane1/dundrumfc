@@ -1,0 +1,17 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: url('/assets/images/pitch.jpg');
+    background-size: cover;
+    height: calc(100vh - 164px);
+    color: #555;
+    font-family: 'Lato';
+}
+
+.register-now-button {
+    background: white;
+    color: black;
+    min-width: 260px;
+}
